@@ -4,7 +4,7 @@ import numpy as np
 import torch
 from torch import nn
 
-from fcbformer_torch.model import pvt_v2
+from FCBformer.model import pvt_v2
 #import pvt_v2
 from timm.models.vision_transformer import _cfg
 
